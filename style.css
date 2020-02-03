@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: abc;
+
+}
+@font-face{
+    font-family:abc;
+    src:url(Abys-Regular.otf);
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+     
+
